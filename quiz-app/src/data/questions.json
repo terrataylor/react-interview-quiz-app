@@ -1,0 +1,58 @@
+[
+    {
+        "question": "Benefits of Redux?",
+        "answer": "Maintainability: The maintenance of Redux becomes easier due to strict code structure and organization./<br> Organization: code organization is very strict hence the stability of the code is high which intern increases the work to be much easier.   Server rendering: This is useful, particularly to the preliminary render, which keeps up a better user experience or search engine optimization. The server-side created stores are forwarded to the client-side.       Developer tools: It is Highly traceable so changes in position and changes in the application all such instances make the developers have a real-time experience.       Ease of testing: The first rule of writing testable code is to write small functions that do only one thing and that are independent. Redux’s code is made of functions that used to be: small, pure, and isolated."
+    },
+    {
+        "question": "How Distinct from MVC and Flux?",
+        "answer": "As far as MVC structure is concerned the data, presentation and logical layers are well separated and handled. here change to an application even at a smaller position may involve a lot of changes through the application. this happens because data flow exists bidirectional as far as MVC is concerned. Maintenance of MVC structures are hardly complex and Debugging also expects a lot of experience for it.  Flux stands closely related to redux. A story based strategy allows capturing the changes applied to the application state, the event subscription, and the current state are connected by means of components. Call back payloads are broadcasted by means of Redux."
+    },
+    {
+        "question": "List the key features of Angular 8?",
+        "answer": "As far as MVC structure is concerned the data, presentation and logical layers are well separated and handled. here change to an application even at a smaller position may involve a lot of changes through the application. this happens because data flow exists bidirectional as far as MVC is concerned. Maintenance of MVC structures are hardly complex and Debugging also expects a lot of experience for it.  Flux stands closely related to redux. A story based strategy allows capturing the changes applied to the application state, the event subscription, and the current state are connected by means of components. Call back payloads are broadcasted by means of Redux."
+    },
+    {
+        "question": "How Distinct from MVC and Flux?",
+        "answer": "As far as MVC structure is concerned the data, presentation and logical layers are well separated and handled. here change to an application even at a smaller position may involve a lot of changes through the application. this happens because data flow exists bidirectional as far as MVC is concerned. Maintenance of MVC structures are hardly complex and Debugging also expects a lot of experience for it.  Flux stands closely related to redux. A story based strategy allows capturing the changes applied to the application state, the event subscription, and the current state are connected by means of components. Call back payloads are broadcasted by means of Redux."
+    },
+    {
+        "question": "How Distinct from MVC and Flux?",
+        "answer": "As far as MVC structure is concerned the data, presentation and logical layers are well separated and handled. here change to an application even at a smaller position may involve a lot of changes through the application. this happens because data flow exists bidirectional as far as MVC is concerned. Maintenance of MVC structures are hardly complex and Debugging also expects a lot of experience for it.  Flux stands closely related to redux. A story based strategy allows capturing the changes applied to the application state, the event subscription, and the current state are connected by means of components. Call back payloads are broadcasted by means of Redux."
+    },
+    {
+        "question": "How Distinct from MVC and Flux?",
+        "answer": "As far as MVC structure is concerned the data, presentation and logical layers are well separated and handled. here change to an application even at a smaller position may involve a lot of changes through the application. this happens because data flow exists bidirectional as far as MVC is concerned. Maintenance of MVC structures are hardly complex and Debugging also expects a lot of experience for it.  Flux stands closely related to redux. A story based strategy allows capturing the changes applied to the application state, the event subscription, and the current state are connected by means of components. Call back payloads are broadcasted by means of Redux."
+    },
+    {
+        "question": "How Distinct from MVC and Flux?",
+        "answer": "As far as MVC structure is concerned the data, presentation and logical layers are well separated and handled. here change to an application even at a smaller position may involve a lot of changes through the application. this happens because data flow exists bidirectional as far as MVC is concerned. Maintenance of MVC structures are hardly complex and Debugging also expects a lot of experience for it.  Flux stands closely related to redux. A story based strategy allows capturing the changes applied to the application state, the event subscription, and the current state are connected by means of components. Call back payloads are broadcasted by means of Redux."
+    },
+    {
+        "question": "How Distinct from MVC and Flux?",
+        "answer": "As far as MVC structure is concerned the data, presentation and logical layers are well separated and handled. here change to an application even at a smaller position may involve a lot of changes through the application. this happens because data flow exists bidirectional as far as MVC is concerned. Maintenance of MVC structures are hardly complex and Debugging also expects a lot of experience for it.  Flux stands closely related to redux. A story based strategy allows capturing the changes applied to the application state, the event subscription, and the current state are connected by means of components. Call back payloads are broadcasted by means of Redux."
+    },
+    {
+        "question": "How Distinct from MVC and Flux?",
+        "answer": "As far as MVC structure is concerned the data, presentation and logical layers are well separated and handled. here change to an application even at a smaller position may involve a lot of changes through the application. this happens because data flow exists bidirectional as far as MVC is concerned. Maintenance of MVC structures are hardly complex and Debugging also expects a lot of experience for it.  Flux stands closely related to redux. A story based strategy allows capturing the changes applied to the application state, the event subscription, and the current state are connected by means of components. Call back payloads are broadcasted by means of Redux."
+    },
+    {
+        "question": "How Distinct from MVC and Flux?",
+        "answer": "As far as MVC structure is concerned the data, presentation and logical layers are well separated and handled. here change to an application even at a smaller position may involve a lot of changes through the application. this happens because data flow exists bidirectional as far as MVC is concerned. Maintenance of MVC structures are hardly complex and Debugging also expects a lot of experience for it.  Flux stands closely related to redux. A story based strategy allows capturing the changes applied to the application state, the event subscription, and the current state are connected by means of components. Call back payloads are broadcasted by means of Redux."
+    },
+    {
+        "question": "How Distinct from MVC and Flux?",
+        "answer": "As far as MVC structure is concerned the data, presentation and logical layers are well separated and handled. here change to an application even at a smaller position may involve a lot of changes through the application. this happens because data flow exists bidirectional as far as MVC is concerned. Maintenance of MVC structures are hardly complex and Debugging also expects a lot of experience for it.  Flux stands closely related to redux. A story based strategy allows capturing the changes applied to the application state, the event subscription, and the current state are connected by means of components. Call back payloads are broadcasted by means of Redux."
+    },
+    {
+        "question": "How Distinct from MVC and Flux?",
+        "answer": "As far as MVC structure is concerned the data, presentation and logical layers are well separated and handled. here change to an application even at a smaller position may involve a lot of changes through the application. this happens because data flow exists bidirectional as far as MVC is concerned. Maintenance of MVC structures are hardly complex and Debugging also expects a lot of experience for it.  Flux stands closely related to redux. A story based strategy allows capturing the changes applied to the application state, the event subscription, and the current state are connected by means of components. Call back payloads are broadcasted by means of Redux."
+    },
+    {
+        "question": "How Distinct from MVC and Flux?",
+        "answer": "As far as MVC structure is concerned the data, presentation and logical layers are well separated and handled. here change to an application even at a smaller position may involve a lot of changes through the application. this happens because data flow exists bidirectional as far as MVC is concerned. Maintenance of MVC structures are hardly complex and Debugging also expects a lot of experience for it.  Flux stands closely related to redux. A story based strategy allows capturing the changes applied to the application state, the event subscription, and the current state are connected by means of components. Call back payloads are broadcasted by means of Redux."
+    },
+    {
+        "question": "How Distinct from MVC and Flux?",
+        "answer": "As far as MVC structure is concerned the data, presentation and logical layers are well separated and handled. here change to an application even at a smaller position may involve a lot of changes through the application. this happens because data flow exists bidirectional as far as MVC is concerned. Maintenance of MVC structures are hardly complex and Debugging also expects a lot of experience for it.  Flux stands closely related to redux. A story based strategy allows capturing the changes applied to the application state, the event subscription, and the current state are connected by means of components. Call back payloads are broadcasted by means of Redux."
+    }
+]
